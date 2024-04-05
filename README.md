@@ -1,4 +1,4 @@
-### Hi there 👋
+### Myself Sara Rahman, currently studying in Computer Science Engineering.
 
 <!--
 **sararahman1729/sararahman1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
