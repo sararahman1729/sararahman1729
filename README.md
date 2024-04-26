@@ -1,5 +1,3 @@
-### Myself Sara Rahman, currently studying in Computer Science Engineering.
-
 <!--
 **sararahman1729/sararahman1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+### Myself Sara Rahman, currently studying in Computer Science Engineering.
+
+🧠 I'm currently learning ML, Data Science and   Deep learning
+
+📫 How to reach me --> rahman.sara1729@gmail.com
+
+### 🛠 Skills
+HTML (95%), CSS (50%), Python (45%), C (99%), C++ (99%), Java (99%), PHP (40%)
+
+
