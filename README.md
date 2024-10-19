@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 About Me
+## 💬 “I... a universe of atoms, an atom in the universe.” ― Richard P. Feynman
+
 ### Myself Sara Rahman, currently studying in Computer Science Engineering.
 
 🧠 I'm currently learning ML, Data Science and Deep learning
