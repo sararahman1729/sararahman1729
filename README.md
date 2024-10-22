@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Myself Sara Rahman, currently studying in Computer Science Engineering.
 
-🧠 I'm currently learning ML, Data Science and Deep learning
+🧠 Currently learning ML, Data Science and Deep learning
 
 📫 How to reach me --> rahman.sara1729@gmail.com
 
-Interestes --> AstroPhysics, Neural Networks, AI, ML, Deep learning, Quantum Mechanics & Quantum computing
+Interests --> AstroPhysics, Neural Networks, AI, ML, Deep learning, Quantum Mechanics & Quantum computing
 
 ### 🛠 Skills
 HTML (95%), CSS (50%), Python (45%), C (99%), C++ (99%), Java (99%), PHP (40%)
