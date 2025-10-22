@@ -22,7 +22,28 @@ Here are some ideas to get you started:
 📫 How to reach me --> rahman.sara1729@gmail.com
 
 Interests --> AstroPhysics, Neural Networks, AI, ML, Deep learning, Quantum Mechanics & Quantum computing
+ 
 
+<!-- Tiny Profile views below interests -->
+<p align="center">
+  <img width="10%" src="https://komarev.com/ghpvc/?username=sararahman1729&color=0dfaff&style=flat-square" />
+</p>
+
+<!-- 🌌 GitHub Stats Section -->
+<h1 align="center">Sara's GitHub Stats</h1>
+
+<p align="center">
+  <!-- Total stats (Commits, Repos, Followers, etc.) -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sararahman1729&show_icons=false&count_private=true&theme=tokyonight" />
+  
+  <!-- Streak stats -->
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sararahman1729&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Top languages -->
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararahman1729&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
