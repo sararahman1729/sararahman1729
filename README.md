@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 💬 “I... a universe of atoms, an atom in the universe.” ― Richard P. Feynman
 
-### Myself Sara Rahman, currently studying Computer Science Engineering at North South University.
+### Myself Sara Rahman, a fresh graduate from North South University in Computer Science & Engineering.
 
 🧠 Currently learning ML, Data Science and Deep learning, NLP, Quantum Computing
 
