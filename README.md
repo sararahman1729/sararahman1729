@@ -3,7 +3,7 @@
 
 ### Myself Sara Rahman, a fresh graduate from North South University in Computer Science & Engineering.
 
-🧠 Passionately exploring different ML models, Data Science, Neural networks & Deep learning techniques, NLP architechtures, and Quantum Computing
+🧠 Passionately exploring different Quantum Algorithms, QML & ML models, Data Analytics, Neural networks & Deep learning techniques, NLP architechtures, and Robotics
 
 📫 How to reach me --> rahman.sara1729@gmail.com
 
